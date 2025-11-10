@@ -1,4 +1,4 @@
-name: TCP Listener and UDP Flood
+name: TCCP Listener and UDP Flood
 
 on:
   workflow_dispatch:
